@@ -1,0 +1,9 @@
+0.0.0.0:2015 {
+	redir https://http2.dev # Redirect HTTP to HTTPS
+}
+0.0.0.0:2378 {
+	tls ./server.crt ./server.key
+}
+gzip
+ext .html
+
