@@ -1,0 +1,6 @@
+[submodule "http-lb-benchmarks"]
+	path = http-lb-benchmarks
+	url = https://github.com/DeviaVir/docker-loadbalancers-benchmarks
+[submodule "coap-lb-benchmarks"]
+	path = coap-lb-benchmarks
+	url = https://github.com/DeviaVir/coap-lb-benchmarks
